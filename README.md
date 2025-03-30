@@ -10,7 +10,6 @@ so\_long is a 2D game built using the MiniLibX graphics library. This project is
 - [Usage](#usage)
 - [Controls](#controls)
 - [Files Overview](#files-overview)
-- [Credits](#credits)
 
 ## Introduction
 
@@ -29,7 +28,10 @@ so\_long is a simple top-down game where a player moves a character through a ma
 To compile and run the game, ensure you have MiniLibX installed on your system.
 
 1. Clone the repository:
-
+   ```sh
+    git clone https://github.com/rogerthat123/so_long
+    cd so_long
+    ```
 2. Compile the project:
    ```sh
    make
