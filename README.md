@@ -38,7 +38,7 @@ To compile and run the game, ensure you have MiniLibX installed on your system.
    ```
 3. Run the game with a map file:
    ```sh
-   ./so_long maps/valid4map.ber
+   ./so_long maps/valid4.ber
    ```
 
 ## Usage
