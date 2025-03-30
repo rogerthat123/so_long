@@ -1,9 +1,9 @@
-# so\_long
+# SO\_LONG
 
 ![image](https://github.com/user-attachments/assets/595b451d-bf23-4228-be83-bf84fbd61afe)
 
 
-so\_long is a 2D game built using the MiniLibX graphics library. This project is part of the 42 School curriculum and aims to reinforce fundamental C programming concepts, including memory management, file handling, and event-driven programming.
+So\_long is a 2D game built using the MiniLibX graphics library. This project is part of the 42 School curriculum and aims to reinforce fundamental C programming concepts, including memory management, file handling, and event-driven programming.
 
 ## Table of Contents
 
